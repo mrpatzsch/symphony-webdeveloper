@@ -1,0 +1,159 @@
+h4, p{
+	text-align: center;
+}
+
+.promotion-bar {
+	background-color: #ff5a00;
+	text-align: center;
+	color: white;
+	letter-spacing: 4px;
+	font-size: 8px;
+	line-height: 24px;
+	margin: 10px 0 10px 0;
+}
+
+.arrow {
+	padding-top: 30%;
+	width: 60px;
+}
+
+#previous {
+	-moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+
+.item img {
+	width: 300px;
+	height: 300px;
+}
+
+.carousel img {
+	margin: 0 auto;
+}
+
+.carousel-inner img {
+	background-size: cover;
+}
+.navbar {
+	margin-left: 20%;
+}
+
+.navbar-nav a:link {
+	color: black;
+}
+
+.navbar-nav a:hover {
+	color: black;
+}
+.navbar-nav a:visited {
+	color: black;
+}
+.navbar-nav a:active {
+	color: black;
+}
+
+.nav-brand {
+	font-size: 48px;
+	font-family: Garamond;
+}
+
+.navbar-nav {
+	line-height: 32px;
+}
+.info {
+	margin: 0 auto;
+}
+
+.grey-box {
+	background-color: #E4E4E4;
+	height: 200px;
+	width: 200px;
+	margin: 0 auto;
+}
+
+
+.social-icons {
+	text-align: center;
+	margin-top: 10px;
+}
+.social-icons li {
+	display: inline-block;
+	padding: 0 5px 0 5px;
+	margin: 0 auto;
+}
+
+.input-field {
+	text-align: center;
+}
+
+.topnav {
+	line-height: 24px;
+	height: 24px;
+	background-color: #E4E4E4;
+	margin-bottom: 10px;
+}
+
+.topnavInfo {
+	text-align: center;
+}
+
+.topnav li {
+	display: inline-block;
+	margin-right: 20%;
+}
+
+#truck {
+	margin-right: 5px;
+	background-color: #E4E4E4;
+}
+
+.orange a:link {
+	color: #ff5a00;
+}
+
+.orange a:hover {
+	color: #ff5a00;
+}
+
+.orange a:visited {
+	color: #ff5a00;
+}
+
+.orange a:active {
+	color: #ff5a00;
+}
+
+.btn-go {
+	background-color: #ff5a00;
+	color: white;
+	border: none;
+}
+
+.greySpace {
+	margin: 20px 0 20px 0;
+	height: 200px;
+	background-color: #E4E4E4;
+}
+
+.like-us {
+	margin: 0 auto;
+	background-color: #E4E4E4;
+	padding: 5px 10px 5px 10px;
+	width: 800px;
+}
+
+.btn {
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
+.footer-main li {
+	list-style-type: none;
+	padding-left: 0;
+}

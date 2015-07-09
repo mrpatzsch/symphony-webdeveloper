@@ -73,7 +73,7 @@ h4, p{
 }
 
 .arrow {
-	padding-top: 30%;
+	padding-top: 40%;
 	width: 60px;
 }
 
@@ -127,8 +127,8 @@ h4, p{
 
 .grey-box img {
 	background-color: #E4E4E4;
-	height: 200px;
-	width: 200px;
+	height: 150px;
+	width: 300px;
 }
 
 .input-field {

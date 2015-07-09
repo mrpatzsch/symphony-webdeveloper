@@ -2,14 +2,51 @@ h4, p{
 	text-align: center;
 }
 
-.promotion-bar {
-	background-color: #ff5a00;
-	text-align: center;
-	color: white;
-	letter-spacing: 4px;
-	font-size: 8px;
+.topnav {
 	line-height: 24px;
-	margin: 10px 0 10px 0;
+	height: 24px;
+	background-color: #E4E4E4;
+	margin-bottom: 10px;
+}
+
+.topnavInfo {
+	text-align: center;
+}
+
+.topnav li {
+	display: inline-block;
+	margin-right: 20%;
+}
+
+.small {
+	font-size: 60%;
+}
+
+.navbar {
+	margin-left: 20%;
+}
+
+.navbar-nav a:link {
+	color: black;
+}
+
+.navbar-nav a:hover {
+	color: black;
+}
+.navbar-nav a:visited {
+	color: black;
+}
+.navbar-nav a:active {
+	color: black;
+}
+
+.nav-brand {
+	font-size: 48px;
+	font-family: Garamond;
+}
+
+.navbar-nav {
+	line-height: 32px;
 }
 
 .arrow {
@@ -38,72 +75,41 @@ h4, p{
 .carousel-inner img {
 	background-size: cover;
 }
-.navbar {
-	margin-left: 20%;
+
+.promotion-bar {
+	background-color: #ff5a00;
+	text-align: center;
+	color: white;
+	letter-spacing: 4px;
+	font-size: 8px;
+	line-height: 24px;
+	margin: 10px 0 10px 0;
 }
 
-.navbar-nav a:link {
-	color: black;
-}
 
-.navbar-nav a:hover {
-	color: black;
-}
-.navbar-nav a:visited {
-	color: black;
-}
-.navbar-nav a:active {
-	color: black;
-}
-
-.nav-brand {
-	font-size: 48px;
-	font-family: Garamond;
-}
-
-.navbar-nav {
-	line-height: 32px;
-}
 .info {
 	margin: 0 auto;
 }
 
+.btn {
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
 .grey-box {
+	margin: 0 auto;
+}
+
+.grey-box img {
 	background-color: #E4E4E4;
 	height: 200px;
 	width: 200px;
-	margin: 0 auto;
-}
-
-
-.social-icons {
-	text-align: center;
-	margin-top: 10px;
-}
-.social-icons li {
-	display: inline-block;
-	padding: 0 5px 0 5px;
-	margin: 0 auto;
 }
 
 .input-field {
 	text-align: center;
-}
-
-.topnav {
-	line-height: 24px;
-	height: 24px;
-	background-color: #E4E4E4;
-	margin-bottom: 10px;
-}
-
-.topnavInfo {
-	text-align: center;
-}
-
-.topnav li {
-	display: inline-block;
-	margin-right: 20%;
 }
 
 #truck {
@@ -145,19 +151,21 @@ h4, p{
 	padding: 5px 10px 5px 10px;
 	width: 800px;
 }
-
-.small {
-	font-size: 60%;
-}
-
-.btn {
-	text-align: center;
-	background-color: black;
-	color: white;
-	width: 100%;
+.footer-main {
+	margin: 0 auto;
 }
 
 .footer-main li {
 	list-style-type: none;
 	padding-left: 0;
+}
+
+.social-icons {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.social-icons li {
+	display: inline-block;
+	padding: 0 5px;
 }
